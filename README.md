@@ -1,2 +1,3 @@
 # Banking_system
-college project of end sem 
+Banking system for Masai School
+End sem Project 
